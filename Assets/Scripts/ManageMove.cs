@@ -33,7 +33,7 @@ public class ManageMove : MonoBehaviour
         {
             Debug.Log("Right");
             directionX = 1;
-        }
+        } 
         if (Input.GetKey(KeyCode.A))
         {
             Debug.Log("Left");
