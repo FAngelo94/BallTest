@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\FollowBall.cs" />
     <Compile Include="Assets\Scripts\ManageMove.cs" />
+    <Compile Include="Assets\Scripts\TheEnd.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/gabri/OneDrive/Desktop/Unity/BallTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
